@@ -3,4 +3,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Simple project consuming API
 API: https://sv443.net/jokeapi/v2/
 
-App on Netlify: 
+App on Netlify: https://badjokesgeneretor.netlify.app/
