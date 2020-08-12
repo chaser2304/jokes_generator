@@ -38,10 +38,6 @@ function App() {
     const frase = await api.json();
     saveFrase(frase)
   }
-
-  const test = () => {
-    console.log("test");
-  }
   
 
   //Cargar una frase
